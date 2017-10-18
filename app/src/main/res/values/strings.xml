@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Andy银行卡识别</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_scan_camera">ScanCamera</string>
+    <string name="title_activity_show_result">ShowResult</string>
+    <string name="unit_price">单 价:</string>
+    <string name="pay">支 付</string>
+    <string name="Product_Name">商品名称:</string>
+    <string name="External_Call">外部调用</string>
+    <string name="hint_editText">点击输入卡号</string>
+    <string name="exit">再按一次退出</string>
+    <string name="toast_momery">建议内存1GB,否则将影响使用体验</string>
+    <string name="toast_flash">当前设备不支持闪光灯</string>
+    <string name="toast_camera">无法启用相机</string>
+    <string name="only">您还可以免费使用</string>
+    <string name="time">次</string>
+    <string name="free">次</string>
+    <string name="times">次</string>
+    <string name="andy_words">银行卡识别技术由andy提供</string>
+</resources>

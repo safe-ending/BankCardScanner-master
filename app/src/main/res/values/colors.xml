@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="line_color">#12d4dc</color>
+    <color name="text_color">#a6ffffff</color>
+    <color name="line_bottom_color">#26000000</color>
+    <color name="card_num_color">#d9000000</color>
+    <color name="card_name_color">#000000</color>
+    <color name="viewfinder_frame">#00ff00</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="new_color">#12d4dc</color>
+    <color name="white_color">#ffffffff</color>
+</resources>
