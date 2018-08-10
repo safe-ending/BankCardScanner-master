@@ -1,3 +1,6 @@
 # BankCardScanner-master
-银行卡信用卡识别  引自github大神的   编译通了做个记录
+银行卡识别，银行卡扫描，BankCard Scanner
+信用卡识别，信用卡扫描  
 测试过是可以的  银行卡调用银行卡识别   信用卡用信用卡识别  
+保证包名相同就可以了，为com.wintone...
+原来收集到的....
